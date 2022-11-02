@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealeditor\\inc\\actionrougelike\\actionrougelike.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\actionrougelikeeditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealeditor\\debuggame\\actionrougelike\\definitions.actionrougelike.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

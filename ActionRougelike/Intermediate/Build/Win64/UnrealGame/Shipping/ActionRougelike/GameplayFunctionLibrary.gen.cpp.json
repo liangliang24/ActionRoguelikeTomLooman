@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealgame\\inc\\actionrougelike\\gameplayfunctionlibrary.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue\\actionrougelike\\intermediate\\build\\win64\\actionrougelike\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealgame\\shipping\\actionrougelike\\definitions.actionrougelike.h",
+            "c:\\ue\\actionrougelike\\source\\actionrougelike\\public\\gameplayfunctionlibrary.h",
+            "c:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealgame\\inc\\actionrougelike\\gameplayfunctionlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

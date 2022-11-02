@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ActionRougelike",
+			"Path": "C:\\ue\\ActionRougelike\\Source\\ActionRougelike.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ActionRougelikeEditor",
+			"Path": "C:\\ue\\ActionRougelike\\Source\\ActionRougelikeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

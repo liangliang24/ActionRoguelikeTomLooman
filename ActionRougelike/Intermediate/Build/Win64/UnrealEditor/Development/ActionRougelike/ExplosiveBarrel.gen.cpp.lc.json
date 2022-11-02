@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealeditor\\inc\\actionrougelike\\explosivebarrel.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\actionrougelikeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealeditor\\development\\actionrougelike\\definitions.actionrougelike.h",
+            "e:\\ue\\actionrougelike\\source\\actionrougelike\\public\\explosivebarrel.h",
+            "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealeditor\\inc\\actionrougelike\\explosivebarrel.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

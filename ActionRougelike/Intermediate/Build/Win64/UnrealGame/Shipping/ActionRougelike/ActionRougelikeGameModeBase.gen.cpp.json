@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealgame\\inc\\actionrougelike\\actionrougelikegamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue\\actionrougelike\\intermediate\\build\\win64\\actionrougelike\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealgame\\shipping\\actionrougelike\\definitions.actionrougelike.h",
+            "c:\\ue\\actionrougelike\\source\\actionrougelike\\actionrougelikegamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealgame\\inc\\actionrougelike\\actionrougelikegamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

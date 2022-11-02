@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealeditor\\inc\\actionrougelike\\action.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\actionrougelikeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealeditor\\development\\actionrougelike\\definitions.actionrougelike.h",
+            "e:\\ue\\actionrougelike\\source\\actionrougelike\\public\\action.h",
+            "d:\\epic\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\epic\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\epic\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\epic\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\epic\\ue_5.0\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\epic\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealeditor\\inc\\actionrougelike\\action.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

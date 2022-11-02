@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealeditor\\inc\\actionrougelike\\targetdummy.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\actionrougelikeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealeditor\\development\\actionrougelike\\definitions.actionrougelike.h",
+            "e:\\ue\\actionrougelike\\source\\actionrougelike\\public\\targetdummy.h",
+            "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealeditor\\inc\\actionrougelike\\targetdummy.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

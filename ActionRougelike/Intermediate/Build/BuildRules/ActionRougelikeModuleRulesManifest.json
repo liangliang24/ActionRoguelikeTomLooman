@@ -1,0 +1,14 @@
+{
+	"SourceFiles": [
+		"C:\\ue\\ActionRougelike\\Source\\ActionRougelike\\ActionRougelike.Build.cs",
+		"C:\\ue\\ActionRougelike\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"C:\\ue\\ActionRougelike\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
+		"C:\\ue\\ActionRougelike\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControl\\RiderGameControl.Build.cs",
+		"C:\\ue\\ActionRougelike\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"C:\\ue\\ActionRougelike\\Plugins\\Developer\\RiderLink\\Source\\RiderLogging\\RiderLogging.Build.cs",
+		"C:\\ue\\ActionRougelike\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfo\\RiderShaderInfo.Build.cs",
+		"C:\\ue\\ActionRougelike\\Source\\ActionRougelike.Target.cs",
+		"C:\\ue\\ActionRougelike\\Source\\ActionRougelikeEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

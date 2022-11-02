@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\ue\\actionrougelike\\source\\actionrougelike\\private\\itemchest.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\actionrougelikeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealeditor\\development\\actionrougelike\\definitions.actionrougelike.h",
+            "e:\\ue\\actionrougelike\\source\\actionrougelike\\public\\itemchest.h",
+            "e:\\ue\\actionrougelike\\source\\actionrougelike\\public\\gameplayinterface.h",
+            "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealeditor\\inc\\actionrougelike\\gameplayinterface.generated.h",
+            "e:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealeditor\\inc\\actionrougelike\\itemchest.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,26 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\27945\AppData\Local\UnrealBuildTool\Log.txt
+  Invalidating makefile for ActionRougelikeEditor (working set of source files changed)
+  Parsing headers for ActionRougelikeEditor
+    Running UnrealHeaderTool "E:\ue\ActionRougelike\ActionRougelike.uproject" "E:\ue\ActionRougelike\Intermediate\Build\Win64\ActionRougelikeEditor\Development\ActionRougelikeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\27945\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for ActionRougelikeEditor in 3.4686541 seconds
+  Building ActionRougelikeEditor...
+  Using Visual Studio 2022 14.33.31629 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from RD unity file: Lifetime.cpp, LifetimeDefinition.cpp, LifetimeImpl.cpp, SequentialLifetimes.cpp, SignalCookie.cpp, DateTime.cpp, IProtocol.cpp, IRdWireable.cpp, ISerializersOwner.cpp, IUnknownInstance.cpp, RdBindableBase.cpp, RdReactiveBase.cpp, WireBase.cpp, ExtWire.cpp, RdExtBase.cpp, RName.cpp, InternRoot.cpp, InternScheduler.cpp, Buffer.cpp, Identities.cpp, MessageBroker.cpp, Protocol.cpp, RdId.cpp, IScheduler.cpp, SingleThreadSchedulerBase.cpp, SimpleScheduler.cpp, SingleThreadScheduler.cpp, SynchronousScheduler.cpp, DefaultAbstractDeclaration.cpp, ISerializable.cpp, Polymorphic.cpp, RdAny.cpp, SerializationCtx.cpp, Serializers.cpp, hashing.cpp, thread_util.cpp, ByteBufferAsyncProcessor.cpp, PkgInputStream.cpp, PumpScheduler.cpp, SocketWire.cpp, WireUtil.cpp, RdTextBuffer.cpp, ActiveSocket.cpp, PassiveSocket.cpp, SimpleSocket.cpp, countdownlatch.cpp, async.cpp, cfg.cpp, color_sinks.cpp, file_sinks.cpp, fmt.cpp, spdlog.cpp, stdout_sinks.cpp, thirdparty.cpp, RD.cpp
+  [Adaptive Build] Excluded from RiderGameControl unity file: RiderGameControl.cpp
+  [Adaptive Build] Excluded from RiderShaderInfoDump unity file: RiderShaderInfoDump.cpp
+  [Adaptive Build] Excluded from ActionRougelike unity file: AICharacter.cpp, BTService_CheckAttackRange.cpp, BTTask_RangeAttack.cpp, MyAIController.cpp, AttributeComponent.cpp, DashProjectile.cpp, ExplosiveBarrel.cpp, GameplayInterface.cpp, HealPotion.cpp, InteractionComponent.cpp, ItemChest.cpp, MagicProjectile.cpp, PlayerCharacter.cpp, ProjectileBase.cpp, TargetDummy.cpp, ActionRougelike.cpp, ActionRougelikeGameModeBase.cpp
+  Determining max actions to execute in parallel (8 physical cores, 8 logical cores)
+    Executing up to 8 processes, one per physical core
+    Requested 1.5 GB free memory per action, 5.58 GB available: limiting max parallel actions to 3
+  Building 6 actions with 3 processes...
+  [1/6] Compile ActionRougelike.init.gen.cpp
+  [2/6] Compile HealPotion.gen.cpp
+  [3/6] Compile HealPotion.cpp
+  [4/6] Link UnrealEditor-ActionRougelike.lib
+    正在创建库 E:\ue\ActionRougelike\Intermediate\Build\Win64\UnrealEditor\Development\ActionRougelike\UnrealEditor-ActionRougelike.lib 和对象 E:\ue\ActionRougelike\Intermediate\Build\Win64\UnrealEditor\Development\ActionRougelike\UnrealEditor-ActionRougelike.exp
+  [5/6] Link UnrealEditor-ActionRougelike.dll
+    正在创建库 E:\ue\ActionRougelike\Intermediate\Build\Win64\UnrealEditor\Development\ActionRougelike\UnrealEditor-ActionRougelike.suppressed.lib 和对象 E:\ue\ActionRougelike\Intermediate\Build\Win64\UnrealEditor\Development\ActionRougelike\UnrealEditor-ActionRougelike.suppressed.exp
+  [6/6] WriteMetadata ActionRougelikeEditor.target
+  Total time in Parallel executor: 2.45 seconds
+  Total execution time: 8.29 seconds

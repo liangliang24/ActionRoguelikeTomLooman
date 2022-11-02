@@ -1,0 +1,26 @@
+Log started at 2022/10/1 11:48:22 (2022-10-01T03:48:22Z)
+No config file at C:\Users\l\Documents\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Configuration will be read from:
+  C:\Users\l\AppData\Roaming\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Log file: C:\ue\ActionRougelike\Saved\Logs\UnrealVersionSelector-2022.10.01-11.48.22.log
+
+Note: Android toolchain NDK r21b recommended
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (1)
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (2)
+Found Windows 10 SDK version 10.0.19041.0 at C:\Program Files (x86)\Windows Kits\10
+Found Universal CRT version 10.0.19041.0 at C:\Program Files (x86)\Windows Kits\10
+Win64 using Manual SDK 10.0.19041.0
+Log file: C:\Users\l\AppData\Local\UnrealBuildTool\Log_GPF.txt
+
+---   SDK INFO START   ---
+
+Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+See the log file for detailed information
+
+---   SDK INFO END   ---
+
+Discovering modules, targets and source code for project...
+Found Visual Studio installation: C:\Program Files\Microsoft Visual Studio\2022\Community (Product=Microsoft.VisualStudio.Product.Community, Version=17.2.32630.192)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326 (Family=14.32.31326, FamilyRank=1, Version=14.32.31332, Is64Bit=True, Preview=False, Architecture=x64, Error=False, Redist=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.32.31326)
+Skipping C:\Program Files\Epic Games\UE_5.0\Engine\Intermediate\Build\BuildRules\UE5Rules.dll: File is installed
+Skipping C:\Program Files\Epic Games\UE_5.0\Engine\Intermediate\Build\BuildRules\UE5ProgramRules.dll: File is installed

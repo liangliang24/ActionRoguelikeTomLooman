@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue\\actionrougelike\\source\\actionrougelike\\actionrougelike.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue\\actionrougelike\\intermediate\\build\\win64\\actionrougelike\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealgame\\development\\actionrougelike\\definitions.actionrougelike.h",
+            "c:\\ue\\actionrougelike\\source\\actionrougelike\\actionrougelike.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

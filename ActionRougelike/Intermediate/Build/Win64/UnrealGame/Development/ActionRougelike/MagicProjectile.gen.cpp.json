@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealgame\\inc\\actionrougelike\\magicprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue\\actionrougelike\\intermediate\\build\\win64\\actionrougelike\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealgame\\development\\actionrougelike\\definitions.actionrougelike.h",
+            "c:\\ue\\actionrougelike\\source\\actionrougelike\\public\\magicprojectile.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\gameplaytags\\gameplaytagcontainer.generated.h",
+            "c:\\ue\\actionrougelike\\source\\actionrougelike\\public\\uaction.h",
+            "c:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealgame\\inc\\actionrougelike\\uaction.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\spherecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\movementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\projectilemovementcomponent.generated.h",
+            "c:\\ue\\actionrougelike\\intermediate\\build\\win64\\unrealgame\\inc\\actionrougelike\\magicprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
